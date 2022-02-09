@@ -20,6 +20,24 @@
 > * ⚡ Experience in working for startups for App & Website Development 
 > * 🌱 I’m currently learning competative programming.
 
+<br>
+
+
+## <h3> 💬 Ask me about 💬 </h3>
+
+> - Data Structure & Algorithm 
+> - Competitive Programming
+> - Projects
+
+<br>
+
+
+## <h3> 📫 Connect with me on 📫 </h3>
+ 
+> - [LinkedIn](https://www.linkedin.com/in/vaibhavi-gaur-b6aa82195/)  
+> - [Portfolio](https://vai14-gaur.github.io/)
+> - mail to vaibhavigaur2001@gmail.com 
+
 
 
 
