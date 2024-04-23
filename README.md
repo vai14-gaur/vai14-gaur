@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm VAIBHAVI GAUR.<img src="https://user-images.githubusercontent.com/48331678/98282820-d187ae00-1faf-11eb-9d3b-605ad3c25119.gif" width="30px">
 > <h3> A Undergraduate Student, Developer, Competitive Programmer! 👩🏻 </h3>
+> <h4> Driven by a fervent desire to conquer intricate and impactful challenges, I graduated with a B.Tech Degree in Computer Science & Engineering, a pivotal step that paved the way for my journey into the realm of pioneering software solutions. My expertise revolves around the realms of Coding, Debugging, and UI Designing, where I have demonstrated excellence in crafting end-to-end applications utilizing JAVA and Flutter. 
+> In addition to my proficiency in Development, I have delved into the intricacies of the Identity & Access Management domain within Cybersecurity. This foray into cybersecurity has enriched my understanding of the broader tech landscape, rendering me a well-rounded developer poised to navigate diverse software development arenas.</h4>
 
 <br>
 
