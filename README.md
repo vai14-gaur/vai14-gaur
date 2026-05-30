@@ -34,13 +34,6 @@
 <br>
 
 
-## <h3> 📫 Connect with me on 📫 </h3>
- 
-> - [LinkedIn](https://www.linkedin.com/in/vaibhavi-gaur-b6aa82195/)  
-> - [Portfolio](https://vai14-gaur.github.io/)
-> - mail to vaibhavigaur2001@gmail.com 
-
-
 
 
 <!--
